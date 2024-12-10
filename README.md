@@ -6,12 +6,14 @@
     <a href="https://space.bilibili.com/395446863/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
 </div>
+
 # <a href="https://kdocs.cn/l/cc2HYBUWr1Fq" target="_blank">家中常备药品清单(点击查看详情)</a>
+
 - 每次出去玩，总会落下一些东西忘了，要么就是家里的东西忘了
 - 所以自己整理了常见的一些常见的清单
 - 每次出发前核对一遍，这样可以方便很多
 
-  <img width="100%" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/medicine/medicine.png">
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/travel/travel.png">
 
 ## Star History
 <a href="https://star-history.com/#CandyDream6/travel-essentials-checklist&Date">

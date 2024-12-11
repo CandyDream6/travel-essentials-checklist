@@ -7,7 +7,7 @@
   </div>
 </div>
 
-# <a href="https://kdocs.cn/l/cc2HYBUWr1Fq" target="_blank">家中常备药品清单(点击查看详情)</a>
+# <a href="https://kdocs.cn/l/cc2HYBUWr1Fq" target="_blank">旅行出差必备物品清单(点击查看详情)</a>
 
 - 每次出去玩，总会落下一些东西忘了，要么就是家里的东西忘了
 - 所以自己整理了常见的一些常见的清单
